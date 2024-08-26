@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aravind</groupId>
-	<artifactId>catalog-service</artifactId>
+	<artifactId>catalogservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>catalog-service</name>
+	<name>catalogservice</name>
 	<description>Catalog Service</description>
 	<url/>
 	<licenses>

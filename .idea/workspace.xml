@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9cc8b28-839c-4933-81a1-7b99b23efb44" name="Changes" comment="" />
+    <list default="true" id="f9cc8b28-839c-4933-81a1-7b99b23efb44" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/catalogservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/catalogservice/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/aravindnune/Desktop/Spring_Projects/spring-boot-microservices-bookstore/catalogservice/src/main/java/com/aravind/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   },
@@ -66,7 +72,7 @@
   <component name="RunManager">
     <configuration name="CatalogServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="catalog-service" />
+      <module name="catalogservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.aravind.bookstore.catalog.CatalogServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,7 +97,7 @@
       <updated>1724622079834</updated>
       <workItem from="1724622080847" duration="1785000" />
       <workItem from="1724623914297" duration="33000" />
-      <workItem from="1724623968723" duration="9613000" />
+      <workItem from="1724623968723" duration="10050000" />
     </task>
     <servers />
   </component>
