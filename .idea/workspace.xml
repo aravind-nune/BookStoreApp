@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9cc8b28-839c-4933-81a1-7b99b23efb44" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/BookStoreApp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/aravind/bookstore/catalog/CatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/java/com/aravind/bookstore/catalog/CatalogServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/test/java/com/aravind/bookstore/catalog/CatalogServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/test/java/com/aravind/bookstore/catalog/CatalogServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/test/java/com/aravind/bookstore/catalog/TestCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/test/java/com/aravind/bookstore/catalog/TestCatalogServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service/src/test/java/com/aravind/bookstore/catalog/TestcontainersConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/test/java/com/aravind/bookstore/catalog/TestcontainersConfiguration.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9cc8b28-839c-4933-81a1-7b99b23efb44" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +52,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -100,7 +91,7 @@
       <updated>1724622079834</updated>
       <workItem from="1724622080847" duration="1785000" />
       <workItem from="1724623914297" duration="33000" />
-      <workItem from="1724623968723" duration="9011000" />
+      <workItem from="1724623968723" duration="9613000" />
     </task>
     <servers />
   </component>
