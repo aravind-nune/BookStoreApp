@@ -1,0 +1,22 @@
+version: "3.8"
+name: 'spring-boot-microservices-bookstore'
+services:
+  catalog-service:
+    image: aravindnune211/bookstore-catalogservice
+    container_name: catalogservice
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker
+      - DB_URL=jdbc:postgresql://catalog-db:5432/postgres
+      - DB_USERNAME=postgres
+      - DB_PASSWORD=postgres
+    ports:
+      - "15432:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg-isready -U postgres" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    deploy:
+      resources:
+        limits:
+          memory: 700m
