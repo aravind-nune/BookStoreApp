@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9cc8b28-839c-4933-81a1-7b99b23efb44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/catalog-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taskfile.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/docker-compose/infra.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-service" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog-service/BookStoreApp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/com/aravind/bookstore/catalog/CatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/java/com/aravind/bookstore/catalog/CatalogServiceApplication.java" afterDir="false" />
@@ -106,7 +100,7 @@
       <updated>1724622079834</updated>
       <workItem from="1724622080847" duration="1785000" />
       <workItem from="1724623914297" duration="33000" />
-      <workItem from="1724623968723" duration="8082000" />
+      <workItem from="1724623968723" duration="9011000" />
     </task>
     <servers />
   </component>
